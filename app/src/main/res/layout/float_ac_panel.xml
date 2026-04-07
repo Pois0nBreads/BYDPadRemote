@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/float_ac_panel"
+    android:layout_width="210dp"
+    android:layout_height="200dp"
+    android:background="@color/color_dark"
+    android:theme="@style/AppTheme">
+
+    <Button
+        android:id="@+id/back_btn"
+        android:text="返回"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+</RelativeLayout>
